@@ -9,6 +9,7 @@ public class Main {
 
             System.out.println("i = " + i);
             System.out.println("hello intellij");System.out.println("hello intellij 2");
+            System.out.println("hello intellij3");System.out.println("hello intellij 4");
         }
     }
 }
